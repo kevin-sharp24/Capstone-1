@@ -5,7 +5,7 @@ Diabetes, particularly type 2 diabetes, is a leading contributor to mortality ra
 Since type 2 diabetes is a preventable disease, identifying its risk factors would allow for earlier detection, prevention, and treatment of at-risk patients by health professionals. This in turn would improve the health of the general United States population and help to reduce the financial burden that treatment places on the economy.
 
 ### Acknowledgments
-The following sources were used to source the data for this project and to perform additional research to ensure that my claims are corroborated by the scientific community.
+The following sources were used to gather the data for this project and to perform additional research to ensure that my claims are corroborated by the scientific community.
 
 #### Data
 - https://www.cdc.gov/brfss/annual_data/annual_2014.html
